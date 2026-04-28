@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حياتي في عينيك شفت الأمان
+> قلبي عاشق في غرامك من زمان
+> كل لحظة فيك روحي بتناديك
+> خذني بين أحضانك أنا كلي ليك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
